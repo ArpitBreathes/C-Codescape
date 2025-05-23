@@ -34,68 +34,70 @@ Each file is clearly named and easy to compile individually.
 
 ## 🗂️ Folder Structure
 
+```
 C-Codescape/
 │
 ├── 01_Sum_and_Digits/
-│ ├── sum_avg_three.c
-│ ├── sum_of_digits.c
-│ └── README.md ← Explains the logic behind each program
+│   ├── sum_avg_three.c
+│   ├── sum_of_digits.c
+│   └── README.md         ← Explains the logic behind each program
 │
 ├── 02_Fibonacci_and_Primes/
-│ ├── fibonacci_series.c
-│ ├── prime_number.c
-│ ├── armstrong_number.c
-│ └── README.md ← Explains logic of Fibonacci, Prime, Armstrong
+│   ├── fibonacci_series.c
+│   ├── prime_number.c
+│   ├── armstrong_number.c
+│   └── README.md         ← Explains logic of Fibonacci, Prime, Armstrong
 │
 ├── 03_Number_Checks/
-│ ├── perfect_number.c
-│ ├── strong_number.c
-│ └── README.md ← Logic for number-based checks
+│   ├── perfect_number.c
+│   ├── strong_number.c
+│   └── README.md         ← Logic for number-based checks
 │
 ├── 04_Quadratic_and_Switch/
-│ ├── quadratic_roots.c
-│ ├── switch_arithmetic.c
-│ └── README.md
+│   ├── quadratic_roots.c
+│   ├── switch_arithmetic.c
+│   └── README.md
 │
 ├── 05_Factorial/
-│ ├── factorial_recursive.c
-│ ├── factorial_non_recursive.c
-│ └── README.md
+│   ├── factorial_recursive.c
+│   ├── factorial_non_recursive.c
+│   └── README.md
 │
 ├── 06_GCD/
-│ ├── gcd_recursive.c
-│ ├── gcd_non_recursive.c
-│ └── README.md
+│   ├── gcd_recursive.c
+│   ├── gcd_non_recursive.c
+│   └── README.md
 │
 ├── 07_Array_Operations/
-│ ├── max_min_array.c
-│ ├── sort_array.c
-│ └── README.md
+│   ├── max_min_array.c
+│   ├── sort_array.c
+│   └── README.md
 │
 ├── 08_Matrix/
-│ ├── matrix_addition.c
-│ ├── matrix_multiplication.c
-│ └── README.md
+│   ├── matrix_addition.c
+│   ├── matrix_multiplication.c
+│   └── README.md
 │
 ├── 09_Functions_and_Swap/
-│ ├── swap_call_by_value.c
-│ ├── swap_call_by_reference.c
-│ └── README.md
+│   ├── swap_call_by_value.c
+│   ├── swap_call_by_reference.c
+│   └── README.md
 │
 ├── 10_String_Operations/
-│ ├── palindrome_string.c
-│ ├── substring_index.c
-│ └── README.md
+│   ├── palindrome_string.c
+│   ├── substring_index.c
+│   └── README.md
 │
 ├── 11_File_and_Text/
-│ ├── text_statistics.c
-│ ├── sum_array_pointers.c
-│ └── README.md
+│   ├── text_statistics.c
+│   ├── sum_array_pointers.c
+│   └── README.md
 │
 └── 12_File_Handling/
-├── total_percentage_marks.c
-├── file_read_write.c
-└── README.md
+    ├── total_percentage_marks.c
+    ├── file_read_write.c
+    └── README.md
+```
 
 Each folder contains:
 - C programs categorized by topic
