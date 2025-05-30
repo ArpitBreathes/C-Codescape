@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<conio.h>
 void main() {
     double a, b, c;
     double discriminant, root1, root2, realPart, imagPart;
